@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7a0665c.chunk.css",
+    "main.js": "/static/js/main.cb61a60b.chunk.js",
+    "main.js.map": "/static/js/main.cb61a60b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8063ec5b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8063ec5b.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a3e5022b.chunk.js": "/static/js/2.a3e5022b.chunk.js",
+    "static/js/2.a3e5022b.chunk.js.map": "/static/js/2.a3e5022b.chunk.js.map",
+    "static/js/3.eb1afdc4.chunk.js": "/static/js/3.eb1afdc4.chunk.js",
+    "static/js/3.eb1afdc4.chunk.js.map": "/static/js/3.eb1afdc4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.b7a0665c.chunk.css.map": "/static/css/main.b7a0665c.chunk.css.map",
+    "static/js/2.a3e5022b.chunk.js.LICENSE.txt": "/static/js/2.a3e5022b.chunk.js.LICENSE.txt",
+    "static/media/chef1.5df31f5b.jpg": "/static/media/chef1.5df31f5b.jpg",
+    "static/media/chef2.55c90a66.jpg": "/static/media/chef2.55c90a66.jpg",
+    "static/media/chef3.bd446936.jpg": "/static/media/chef3.bd446936.jpg",
+    "static/media/chef4.a42747dd.jpg": "/static/media/chef4.a42747dd.jpg",
+    "static/media/fifthwonder.40a27a04.jpg": "/static/media/fifthwonder.40a27a04.jpg",
+    "static/media/firstwonder.4e903118.jpg": "/static/media/firstwonder.4e903118.jpg",
+    "static/media/fourthwonder.92ee52b2.jpg": "/static/media/fourthwonder.92ee52b2.jpg",
+    "static/media/gem.5b2f5178.jpg": "/static/media/gem.5b2f5178.jpg",
+    "static/media/Hero.css": "/static/media/homepage.6f69af9b.jpeg",
+    "static/media/Favorite.css": "/static/media/homepage1.b1bcf0b2.jpeg",
+    "static/media/secondwonder.449dd5da.jpg": "/static/media/secondwonder.449dd5da.jpg",
+    "static/media/sixthwonder.c032c892.jpg": "/static/media/sixthwonder.c032c892.jpg",
+    "static/media/Chefs.css": "/static/media/team.dd78ea90.jpeg",
+    "static/media/thirdwonder.99f8bea8.jpg": "/static/media/thirdwonder.99f8bea8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8063ec5b.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a3e5022b.chunk.js",
+    "static/css/main.b7a0665c.chunk.css",
+    "static/js/main.cb61a60b.chunk.js"
+  ]
+}
