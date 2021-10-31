@@ -1,0 +1,15 @@
+.chefImg {
+  height: 300px;
+  border-bottom: solid 9px #fdc500;
+  border-top: solid 3px #fdc500;
+  width: 300px;
+  object-fit: cover;
+}
+
+.chefContainer {
+  min-height: 100vh;
+
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
+    url("../images/team.jpeg");
+  color: rgb(255, 255, 255);
+}

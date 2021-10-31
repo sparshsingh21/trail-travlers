@@ -1,0 +1,61 @@
+.navbar1 {
+  /* background: rgba(0, 0, 0, 0.137); */
+  background: "transparent";
+  height: 80px;
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  font-weight: 700;
+  position: fixed;
+  transition: transform 1000ms;
+  z-index: 10;
+}
+
+.navbar1.move {
+  transform: translateY(-200px);
+}
+.desktop1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.desktop1 img {
+  width: 75%;
+  margin: auto;
+  padding: 20px;
+}
+.navlink {
+  color: #fff;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 530px) {
+  .navlink {
+    position: absolute;
+    top: 10px;
+    left: 25px;
+  }
+
+  .desktop img {
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+  }
+}
+
+.navicon {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  color: #fff;
+  transform: translate(100%, 50%);
+  font-weight: bold;
+  font-size: 2rem;
+}
